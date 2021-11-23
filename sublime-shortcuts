@@ -1,0 +1,8 @@
+[
+	{ "keys" : ["ctrl+1"], "command": "implement" },
+	{ "keys" : ["ctrl+2"], "command": "expand_fqcn" },
+	{ "keys" : ["ctrl+3"], "command": "insert_php_constructor_property" },
+	{ "keys" : ["ctrl+4"], "command": "import_namespace" },
+	{ "keys" : ["ctrl+5"], "command": "use_sort_length" },
+	{ "keys" : ["ctrl+6"], "command": "goto_definition_scope" },
+]
